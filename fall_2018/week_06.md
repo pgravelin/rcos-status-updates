@@ -9,3 +9,5 @@ get the UI up for the presentation in Decemeber.
 
 ## Anything Blocking?
 
+Busy with work this week especially, looking to the weekend / next week for
+time.
