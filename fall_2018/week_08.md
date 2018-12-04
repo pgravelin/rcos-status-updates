@@ -1,6 +1,6 @@
-## Last Week's Accomplishments
+# Last Week's Accomplishments
 
-Last week, I implemeneted a simple authentication system for our 
+Last week, I implemented a simple authentication system for our 
 website that allows a user to log into our website using their
 Github credentials.
 
